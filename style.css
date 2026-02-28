@@ -1,0 +1,27 @@
+.centre-image{
+  display:block;
+  margin:0 auto;
+}
+body{
+  font-family:Arial,sans-serif;
+  line height:1.6;
+  background-color:lightyellow;
+  color:darkblue;
+    padding:20px;
+}
+h1{
+  text-align:center;
+  color:red;
+    
+}
+h2{
+  color:purple;
+}
+img{
+  max-width:100%;
+  height:auto;
+  margin-bottom:20px;
+}
+ul{
+  padding-left:20px;
+}
